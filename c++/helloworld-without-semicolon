@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{//One way to print hello world without semicolon
+ while(cout<<"HELLO WORLD")
+ {
+ 
+ }
+ //another way to print hello world without semicolon
+ if(cout<<"HELLO WORLD")
+ {
+ }
+ 
+ return 0;
+ }
